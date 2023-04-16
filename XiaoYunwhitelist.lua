@@ -48,6 +48,8 @@ elseif a=="sj097sk"then
 _G.whitelisted=true
 elseif a=="eeerrrttt22233852"then
 _G.whitelisted=true
+elseif a=="udhehuxh"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/uwuathehad/uwu/main/XiaoYunV1.0.5.lua"))()
