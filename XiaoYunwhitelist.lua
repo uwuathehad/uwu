@@ -16,7 +16,7 @@ elseif a=="fafsw3"then
 _G.whitelisted=true
 elseif a=="ss_chara520"then
 _G.whitelisted=true
-elseif a=="aqsde114514"then
+elseif a=="aqswde114514"then
 _G.whitelisted=true
 elseif a=="guaz_666"then
 _G.whitelisted=true
