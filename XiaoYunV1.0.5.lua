@@ -20,7 +20,7 @@ CoreGui:SetCore("SendNotification", {
     Text = "加载成功！",
     Duration = 5, 
 })
-local Window = OrionLib:MakeWindow({Name = "☁️脚本V1.0.5", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
+local Window = OrionLib:MakeWindow({Name = "☁️脚本V1.0.6", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
 local Tab = Window:MakeTab({
 	Name = "⭐主要的",
 	Icon = "rbxassetid://4483345998",
