@@ -398,6 +398,13 @@ Tab:AddButton({
   	end
 })
 
+Tab:AddButton({
+	Name = "披萨店",
+	Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/hEWTskm0", true))()
+  	end
+})
+
 local Tab = Window:MakeTab({
 	Name = "信用",
 	Icon = "rbxassetid://4483345998",
