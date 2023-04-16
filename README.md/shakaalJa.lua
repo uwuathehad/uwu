@@ -400,3 +400,7 @@ Tab:AddButton({
      setclipboard("168777105")
   	end
 })
+else
+ 
+game.Players.LocalPlayer:Kick("云脚本被修复了，我准备V1.0.4测试版")
+end
