@@ -22,6 +22,8 @@ elseif a=="aqswde114514"then
 _G.whitelisted=true
 elseif a=="guaz_666"then
 _G.whitelisted=true
+elseif a=="TRYILIJ"then
+_G.whitelisted=true
 elseif a=="jsgajvj"then
 _G.whitelisted=true
 elseif a=="haihaihainb"then
