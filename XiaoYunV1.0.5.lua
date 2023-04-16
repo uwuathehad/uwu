@@ -401,7 +401,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "披萨店",
 	Callback = function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/hEWTskm0", true))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/hEWTskm0"))()
   	end
 })
 
