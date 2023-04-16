@@ -88,7 +88,7 @@ Tab:AddToggle({
 Tab:AddButton({
 	Name = "飞行V3（隐藏）",
 	Callback = function()
-     loadstring(game:HttpGet('https://pastebin.com/raw/U27yQRxS'))()
+     loadstring(game:HttpGet('https://pastebin.com/raw/vs2qsHBH'))()
   	end    
 })
 
