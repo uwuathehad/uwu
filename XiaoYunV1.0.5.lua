@@ -2,15 +2,22 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
     Title = "☁️脚本",
-    Text = "正在加载",
+    Text = "正在加载（反挂机已开启）",
     Duration = 3, 
 })
+print("Anti Afk On")
+		local vu = game:GetService("VirtualUser")
+		game:GetService("Players").LocalPlayer.Idled:connect(function()
+		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		   wait(1)
+		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+		end)
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
 
 CoreGui:SetCore("SendNotification", {
     Title = "☁️脚本",
-    Text = "加载成功！重新执行一下。",
+    Text = "加载成功！",
     Duration = 5, 
 })
 local Window = OrionLib:MakeWindow({Name = "☁️脚本V1.0.5", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
