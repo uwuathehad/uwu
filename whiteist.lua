@@ -53,10 +53,12 @@ elseif a=="ljgzy_fwxjx"then
 _G.whitelisted=true
 elseif a=="RIP_haihaihai"then
 _G.whitelisted=true
+elseif a=="zzrzz12379"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/666666666666.lua"))()
     else
  
-game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ174073872给白名单，星期六星期日帮白名单")
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ168777105 QQ174073872免费白名单")
 end
