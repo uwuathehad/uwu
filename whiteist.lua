@@ -41,6 +41,10 @@ elseif a=="spide6553"then
 _G.whitelisted=true
 elseif a=="1234512gg"then
 _G.whitelisted=true
+elseif a=="Palpitate"then
+_G.whitelisted=true
+elseif a=="CPU819"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/wjkao666.lua"))()
