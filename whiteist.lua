@@ -15,6 +15,8 @@ end)
 game.Players.LocalPlayer:Kick("我操你妈逼的你妈明天直接被我云脚本V1.0.6源代码，你被永久黑名单")
 elseif a=="xtdfcyghg"then
 _G.whitelisted=true
+elseif a=="siwhhwc"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/wjkao666.lua"))()
