@@ -47,7 +47,7 @@ elseif a=="CPU819"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/wjkao666.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/ssjakaksoao11.lua"))()
     else
  
 game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ174073872给免费白名单")
