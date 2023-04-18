@@ -29,6 +29,8 @@ elseif a=="yushengguo1234"then
 _G.whitelisted=true
 elseif a=="1jsj1j"then
 _G.whitelisted=true
+elseif a=="chinese36153"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/wjkao666.lua"))()
