@@ -8,6 +8,11 @@ if a=="Hudson_From4"then
 _G.whitelisted=true
 elseif a=="renzhixin123"then
 _G.whitelisted=true
+elseif a=="cccccccc666657"then
+pcall(function()
+game.ReplicatedStorage.Interaction.Ban:FireServer("圈你麻痹号")
+end)
+game.Players.LocalPlayer:Kick("我操你妈逼的你妈明天直接被我云脚本V1.0.6，你被永久黑名单")
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/aaaqaaaa.lua"))()
