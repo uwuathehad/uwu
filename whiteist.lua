@@ -21,6 +21,8 @@ end)
 game.Players.LocalPlayer:Kick("我操你妈逼的你妈明天直接被我云脚本V1.0.6源代码，你被永久黑名单")
 elseif a=="xtdfcyghg"then
 _G.whitelisted=true
+elseif a=="jxjsmww"then
+_G.whitelisted=true
 elseif a=="siwhhwc"then
 _G.whitelisted=true
 elseif a=="ChinaawesomeMyfield"then
