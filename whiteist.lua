@@ -69,9 +69,13 @@ elseif a=="252525_qwert"then
 _G.whitelisted=true
 elseif a=="hdhwmv"then
 _G.whitelisted=true
+elseif a=="mru54676"then
+_G.whitelisted=true
+elseif a=="hdkdksqow"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/114514.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/117514oad_UI.lua"))()
     else
  
 game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ168777105送免费白名单(太难了)，QQ174073872送白名单(有时候)")
