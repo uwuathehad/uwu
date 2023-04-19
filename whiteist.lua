@@ -21,10 +21,7 @@ _G.whitelisted=true
 elseif a=="renzhixin123"then
 _G.whitelisted=true
 elseif a=="cccccccc666657"then
-pcall(function()
-game.ReplicatedStorage.Interaction.Ban:FireServer("圈你麻痹号")
-end)
-game.Players.LocalPlayer:Kick("我操你妈逼的你妈明天直接被我云脚本V1.0.6源代码，你被永久黑名单")
+_G.whitelisted=true
 elseif a=="xtdfcyghg"then
 _G.whitelisted=true
 elseif a=="jxjsmww"then
@@ -80,6 +77,8 @@ _G.whitelisted=true
 elseif a=="mru54676"then
 _G.whitelisted=true
 elseif a=="hdkdksqow"then
+_G.whitelisted=true
+elseif a=="ffjfjcjid"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
