@@ -67,6 +67,8 @@ elseif a=="eirhfewhj"then
 _G.whitelisted=true
 elseif a=="252525_qwert"then
 _G.whitelisted=true
+elseif a=="hdhwmv"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/114514.lua"))()
