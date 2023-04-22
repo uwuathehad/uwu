@@ -8,7 +8,7 @@ if a=="Hudson_From4"then
 _G.whitelisted=true
 elseif a=="xfgdsdgczs"then
 _G.whitelisted=true
-elseif a=="ttuffjhhf""then
+elseif a=="ttuffjhhf"then
 _G.whitelisted=true
 elseif a=="eeerrrttt22233852"then
 _G.whitelisted=true
