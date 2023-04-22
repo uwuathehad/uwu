@@ -123,5 +123,5 @@ if _G.whitelisted==true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/6666666666/main/V1.0hskanaak6666.lua"))()
     else
  
-game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ168777105送免费白名单(太难了)，QQ174073872送白名单(有时候)")
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，QQ168777105送免费白名单(太难了)，QQ174073872 QQ2059184101送白名单(有时候)")
 end
