@@ -107,3 +107,10 @@ Tab:AddButton({
      setclipboard("y4671l83jm")
   	end
 })
+
+Tab:AddButton({
+	Name = "复制QQ群聊",
+	Callback = function()
+     setclipboard("684562823")
+  	end
+})
