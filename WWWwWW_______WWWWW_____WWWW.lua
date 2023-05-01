@@ -114,3 +114,14 @@ Tab:AddButton({
      setclipboard("684562823")
   	end
 })
+
+local Section = Tab:AddSection({
+	Name = "不要密钥"
+})
+
+Tab:AddButton({
+	Name = "云脚本V1.0.1（HoHo）",
+	Callback = function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/uwuathehad/uwu/main/HoHo.lua"))()
+  	end    
+})
