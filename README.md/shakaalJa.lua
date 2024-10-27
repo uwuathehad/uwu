@@ -6,7 +6,7 @@ CoreGui:SetCore("SendNotification", {
     Duration = 3, 
 })
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
+--local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
 
 CoreGui:SetCore("SendNotification", {
     Title = "☁️脚本",
