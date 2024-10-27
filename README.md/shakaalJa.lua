@@ -10,7 +10,7 @@ local OrionLib = loadstring(game:HttpGet('https://pastebin.com/raw/xLRUSiKx'))()
 
 CoreGui:SetCore("SendNotification", {
     Title = "☁️脚本",
-    Text = "加载成功！重新执行一下。",
+    Text = "加载成功！",
     Duration = 5, 
 })
 local Window = OrionLib:MakeWindow({Name = "☁️脚本V1.0.4", HidePremium = false, IntroEnabled = false, ConfigFolder = "SB2Mod"})
@@ -400,7 +400,3 @@ Tab:AddButton({
      setclipboard("168777105")
   	end
 })
-else
- 
-game.Players.LocalPlayer:Kick("云脚本被修复了，我准备V1.0.4测试版")
-end
